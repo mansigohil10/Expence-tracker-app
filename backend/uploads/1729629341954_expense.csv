@@ -1,0 +1,9 @@
+amount,category,payment_method,date
+50,Food,cash,2024-10-22
+75,Transport,credit,2024-10-23
+20,Entertainment,cash,2024-10-24
+75.2,Food,credit,2024-09-30
+40,Health,cash,2024-09-26
+80.75,Shopping,credit,2024-09-23
+800,Electronics,credit,2024-09-16
+50,Gifts,cash,2024-09-1
